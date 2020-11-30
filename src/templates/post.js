@@ -1,8 +1,11 @@
 import React from 'react';
 import _ from 'lodash';
 import {graphql} from 'gatsby';
-
+import moment from 'moment-strftime';
 import components, {Layout} from '../components/index';
+import {withPrefix, getData, Link, htmlToReact} from '../utils';
+import BlogPostCategories from '../components/BlogPostCategories';
+import BlogPostTags from '../components/BlogPostTags';
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
@@ -32,6 +35,13 @@ export default class Post extends React.Component {
                   <Component key={section_idx} {...this.props} section={section} site={this.props.pageContext.site} />
                 )
             })}
+            <article className="post">
+              <div className="container container--md">
+                <div className="post__copy">
+                  {htmlToReact(_.get(this.props, 'pageContext.html', null))}
+                </div>
+              </div>
+            </article>
             </Layout>
         );
     }
