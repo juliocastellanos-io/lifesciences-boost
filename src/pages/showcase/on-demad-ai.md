@@ -2,6 +2,8 @@
 title: On Demand Medical AI
 date: '2020-11-30'
 image: images/ai.png
+categories:
+  - data/categories/demo.yaml
 excerpt: 'Integrate Pre-tranined AI model on a any PACS server.'
 sections:
   - type: hero_section
@@ -10,7 +12,7 @@ sections:
       Integrate Pre-tranined AI model on a any PACS server.
     actions:
       - label: Live Demo
-        url: ''
+        url: 'http://test.com'
         style: primary
     align: left
     image: images/ai.png
@@ -49,7 +51,7 @@ sections:
       Make sure you are connected to Globant's VPN
     actions:
       - label: Live Demo
-        url: 
+        url: ''
         style: primary
     has_background: true
     background_color: gray

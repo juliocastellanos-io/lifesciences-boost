@@ -2,6 +2,8 @@
 title: GPU Training Notebook
 date: '2020-11-26'
 image: images/jupy.png
+categories:
+  - data/categories/demo.yaml
 excerpt: 'Run Experiments GPU Accelarated Notebooks'
 sections:
   - type: hero_section

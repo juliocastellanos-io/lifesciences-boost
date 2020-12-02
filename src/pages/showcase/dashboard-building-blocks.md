@@ -2,6 +2,8 @@
 title: Dashboard Building Blocks
 date: '2020-05-25'
 image: images/d.png
+categories:
+  - data/categories/demo.yaml
 excerpt: 'Visualize data from multiple datasets'
 sections:
   - type: hero_section

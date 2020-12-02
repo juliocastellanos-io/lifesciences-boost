@@ -1,10 +1,9 @@
 import React from 'react';
 import _ from 'lodash';
 import {graphql} from 'gatsby';
-import moment from 'moment-strftime';
+
 import components, {Layout} from '../components/index';
-import {withPrefix, getData, Link, htmlToReact} from '../utils';
-import BlogPostCategories from '../components/BlogPostCategories';
+import {htmlToReact} from '../utils';
 import BlogPostTags from '../components/BlogPostTags';
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
@@ -40,6 +39,11 @@ export default class Post extends React.Component {
                 <div className="post__copy">
                   {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                 </div>
+                {_.get(this.props, 'pageContext.frontmatter.tags', null) && (
+                <footer className="post__footer">
+                  <BlogPostTags {...this.props} tags={_.get(this.props, 'pageContext.frontmatter.tags', null)} />
+                </footer>
+                )}
               </div>
             </article>
             </Layout>

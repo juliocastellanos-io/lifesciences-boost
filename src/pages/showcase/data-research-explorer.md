@@ -1,7 +1,9 @@
 ---
 title: Data Research Explorer
-date: '2020-05-25'
+date: '2020-11-11'
 image: images/t.png
+categories:
+  - data/categories/demo.yaml
 excerpt: 'Explore and manipulate mutiple datasets using a single query interface'
 sections:
   - type: hero_section

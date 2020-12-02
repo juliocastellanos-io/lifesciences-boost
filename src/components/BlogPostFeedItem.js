@@ -1,7 +1,8 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {Link, withPrefix} from '../utils';
+import {Link, withPrefix, getData} from '../utils';
+import BlogPostCategories from './BlogPostCategories';
 
 export default class BlogPostFeedItem extends React.Component {
     render() {
@@ -17,6 +18,9 @@ export default class BlogPostFeedItem extends React.Component {
                 )}
                 <div className="card__body">
                   <header className="card__header">
+                    {_.get(post, 'frontmatter.categories', null) && (
+                      <BlogPostCategories {...this.props} categories={_.get(post, 'frontmatter.categories', null)} container_class={'card__meta'} />
+                    )}
                     {_.get(blog_feed_section, 'title', null) ? (
                       <h3 className="h4 card__title"><Link to={withPrefix(_.get(post, 'url', null))}>{_.get(post, 'frontmatter.title', null)}</Link></h3>
                     ) : 
@@ -28,6 +32,8 @@ export default class BlogPostFeedItem extends React.Component {
                       <p>{_.get(post, 'frontmatter.excerpt', null)}</p>
                     </div>
                   )}
+                  <footer className="card__footer">
+                  </footer>
                 </div>
               </div>
             </article>
