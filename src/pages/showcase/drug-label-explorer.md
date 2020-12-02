@@ -65,7 +65,7 @@ template: post
 - Go to the demo link
 - You will see the following page
 
-![Demo](images/drug-d-1.png)
+![Demo](/images/drug-d-1.png)
 
 - A default query will be presented
 - Fill one the drug names examples on the keyword option
