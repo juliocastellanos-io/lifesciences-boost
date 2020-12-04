@@ -68,7 +68,7 @@ template: post
 ![Demo](/images/drug-d-1.png)
 
 - A default query will be presented
-- Fill one the drug names examples on the keyword option
+- Fill one of the drug names from the examples on the keyword option
 - Press the play button
 - You will get the results rendered on the right side
 
