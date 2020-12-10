@@ -38,31 +38,7 @@ sections:
            (Also directly from IBP webpage)
            Modern plant breeding programs, with good data management practices, meeting demand-led objectives in the context of a value chain approach that addresses consumer demand, agro-ecological challenges, and local production needs. Through the enhancement of plant breeding programs, and the sharing of knowledge resources across chain actors, we envisage improved livelihoods for farming families in developing countries.
         align: left
-        
-      - title: CrossTab
-        content: >-
-           In the context of a collaboration between IBP and Globant, we are creating an innovative tool that will allow the breeders create recommendations based on the desired traits for the new crops to come. This platform helps the producer choose the right germoplasm to breed between hundreds of options, reducing experimentation costs and times. 
-        align: center
-
-      - title: Stage 1 - The breeder decides what are the desired traits
-        content: >-
-          The system will allow the breeder to select the traits on which the decision will be based. The traits can be both quantitative or qualitative and all the selection criteria will be contemplated, permitting the breeder choose between all the imaginable scenarios. This will result in the best possible control over the offspring.
-        align: left
-        image: images/IBP_Stage1.jpg
-        image_position: right
-        image_opacity: 100
-        image_size: auto
-
-      - title: NEXT SECTION
-        content: >-
-          TEXT
-        align: left
-        image: images/IBP_img1.jpg
-        image_position: right
-        image_opacity: 100
-        image_size: auto
        
-        
 
 template: post
 ---
@@ -96,4 +72,4 @@ Additionally, a table will be generated displaying all the possible crosses **an
 All the information can be sent to the breeder's email for future reference. The crosses will also be saved in the CrossTab application for convenience, and to allow a rapid refill of the requeriments in case subtle changes need to be made to the cross to obtain different results and compare between them. **A comparison tool between the various results will be added in a future version of the tool.**
 
 
-**PRUEBA**
+**PRUEBA !!**
