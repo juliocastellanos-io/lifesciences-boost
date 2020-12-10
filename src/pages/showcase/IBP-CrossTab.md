@@ -1,7 +1,7 @@
 ---
 title: IBP CrossTab
 date: '2020-12-04'
-image: images/IBP_Img1.jpg
+image: images/IBP_img1.jpg
 categories:
   - data/categories/research.yaml
 excerpt: 'IBP CrossTab'
@@ -15,7 +15,7 @@ sections:
         url: 'https://www.integratedbreeding.net/'
         style: primary
     align: left
-    image: images/IBP_Img1.jpg
+    image: images/IBP_img1.jpg
     image_position: right
     has_background: true
     background:
