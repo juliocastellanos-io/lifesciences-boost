@@ -39,6 +39,21 @@ sections:
            Modern plant breeding programs, with good data management practices, meeting demand-led objectives in the context of a value chain approach that addresses consumer demand, agro-ecological challenges, and local production needs. Through the enhancement of plant breeding programs, and the sharing of knowledge resources across chain actors, we envisage improved livelihoods for farming families in developing countries.
         align: left
         
+        - title: CrossTab
+        content: >-
+           In the context of a collaboration between IBP and Globant, we are creating an innovative tool that will allow the breeders create recommendations based on the desired traits for the new crops to come. This platform helps the producer choose the right germoplasm to breed between hundreds of options, reducing experimentation costs and times. 
+        align: left
+
+        - title: NEXT SECTION
+        content: >-
+          TEXT
+        align: left
+        image: images/IBP_img1.jpg
+        image_position: right
+        image_opacity: 100
+        image_size: auto
+       
+        
 
 template: post
 ---
