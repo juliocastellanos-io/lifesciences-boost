@@ -1,6 +1,6 @@
 ---
 title: Computer Aided Drug Discovery
-date: '2020-11-30'
+date: '2020-12-04'
 image: images/cadd_fig3_cropped.jpg
 categories:
   - data/categories/research.yaml
@@ -24,9 +24,26 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat       
+        - type: features_section
+    title: ''
+    features:
+      - title: Introduction - Which is the necessity we will be covering?
+        content: >-
+          TEXT TEXT TEXT
+        align: left
+        
+      - title: Objectives - Where are we aiming out R and D efforts?
+        content: >-
+           TEXT TEXT TEXT
+        align: left
+        image: images/cadd_fig3_cropped.png
+        image_position: right
 
 template: post
 ---
+
+![Powered by Glabs](/images/Labs-Logo.png)
+
 ## Drug discovery pipeline
 ![Pipeline overview](/images/cadd_fig1_b.png)
 
@@ -51,3 +68,7 @@ Utilize QSAR modelling for lead optimization strategies...
 ### Evaluating ADMET properties
 
 Evaluate the predicted ADMET properties and discard unwanted compounds. Filter libraries, lead compounds, predict off-target activity, Cytochrome P450 metabolism and anti-target binding evaluation through docking simulation, 
+
+### Technology utilized for this project
+
+COMPLETE

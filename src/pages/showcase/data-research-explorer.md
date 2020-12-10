@@ -1,21 +1,21 @@
 ---
-title: Dashboard Building Blocks
-date: '2020-05-25'
-image: images/d.png
+title: Data Research Explorer
+date: '2020-11-11'
+image: images/t.png
 categories:
   - data/categories/demo.yaml
-excerpt: 'Visualize data from multiple datasets'
+excerpt: 'Explore and manipulate mutiple datasets using a single query interface'
 sections:
   - type: hero_section
-    title: Dashboard Building Blocks
+    title: Data Research Explorer
     subtitle: >-
-      Visualize data from multiple datasets
+      Explore and manipulate mutiple datasets using a single query interface
     actions:
       - label: Live Demo
         url: ''
         style: primary
     align: left
-    image: images/d.png
+    image: images/t.png
     image_position: right
     has_background: true
     background:

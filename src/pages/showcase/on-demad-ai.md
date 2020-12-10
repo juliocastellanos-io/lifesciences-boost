@@ -10,7 +10,10 @@ sections:
     title: On Demand Medical AI
     subtitle: >-
       Integrate Pre-tranined AI model on a any PACS server.
-
+    actions:
+      - label: Live Demo
+        url: 'http://test.com'
+        style: primary
     align: left
     image: images/ai.png
     image_position: right
@@ -26,28 +29,35 @@ sections:
     features:
       - title: PACS Integration
         content: >-
-          Integrate with any PACS server to get patient studies images, image-preprocesing and data anonymization.
+          Connect to the a PACS server and get patient studies images.
         align: left
         image: images/ai-f-1.png
         image_position: right
       - title: Run Multiple AI Models
         content: >-
-          Run pre-tranined AI models on demad in an accerelated environment, the models could run on a any cloud provider or on-premises with dedicated hardware.
+          
         align: left
         image: images/ai-f-2.png
         image_position: left
       - title: Get Predictions and Metrics 
         content: >-
-          Get relevant metrics from the model predictions, for example, for a Lung CT scan if a tumor is detected a collection of metrics such as volume, size will be calculated. A prediction will be expressed in a probability, for example if a patient is likely to have a condition.
+         
         align: left
         image: images/ai-f-3.png
         image_position: right
   - type: cta_section
     title: On Demand Medical AI
     subtitle: >-
-      Demo coming soon.
-
+      Make sure you are connected to Globant's VPN
+    actions:
+      - label: Live Demo
+        url: ''
+        style: primary
     has_background: true
     background_color: gray
 template: post
 ---
+## How to run the demo
+
+- Go to the demo link
+- You will see the following page

@@ -1,21 +1,21 @@
 ---
-title: Dashboard Building Blocks
-date: '2020-05-25'
-image: images/d.png
+title: GPU Training Notebook
+date: '2020-11-26'
+image: images/jupy.png
 categories:
   - data/categories/demo.yaml
-excerpt: 'Visualize data from multiple datasets'
+excerpt: 'Run Experiments GPU Accelarated Notebooks'
 sections:
   - type: hero_section
-    title: Dashboard Building Blocks
+    title: GPU Training Notebook
     subtitle: >-
-      Visualize data from multiple datasets
+      Run Experiments GPU Accelarated Notebooks.
     actions:
       - label: Live Demo
         url: ''
         style: primary
     align: left
-    image: images/d.png
+    image: images/jupy.png
     image_position: right
     has_background: true
     background:
