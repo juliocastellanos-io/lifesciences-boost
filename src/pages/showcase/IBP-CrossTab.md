@@ -72,3 +72,4 @@ Additionally, a table will be generated displaying all the possible crosses **an
 All the information can be sent to the breeder's email for future reference. The crosses will also be saved in the CrossTab application for convenience, and to allow a rapid refill of the requeriments in case subtle changes need to be made to the cross to obtain different results and compare between them. **A comparison tool between the various results will be added in a future version of the tool.**
 
 
+**PRUEBA**
