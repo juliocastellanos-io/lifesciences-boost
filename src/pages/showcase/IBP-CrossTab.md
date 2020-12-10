@@ -44,7 +44,7 @@ sections:
            In the context of a collaboration between IBP and Globant, we are creating an innovative tool that will allow the breeders create recommendations based on the desired traits for the new crops to come. This platform helps the producer choose the right germoplasm to breed between hundreds of options, reducing experimentation costs and times. 
         align: center
 
-      - title: NEXT SECTION
+      - title: Stage 1 - The breeder decides what are the desired traits
         content: >-
           The system will allow the breeder to select the traits on which the decision will be based. The traits can be both quantitative or qualitative and all the selection criteria will be contemplated, permitting the breeder choose between all the imaginable scenarios. This will result in the best possible control over the offspring.
         align: left
