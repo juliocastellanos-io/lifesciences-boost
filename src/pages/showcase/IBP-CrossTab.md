@@ -37,15 +37,14 @@ sections:
         align: right   
 template: post
 ---
-### CrossTab
+### CrossTab
 
 In the context of a collaboration between IBP and Globant, we are creating an innovative tool that will allow the breeders obtain recommendations based on the desired traits for the new generations of crops. This application helps the producer choose the right germoplasm to breed between hundreds of options, reducing experimentation costs and times. 
 
 ### Deciding on the desired traits
 
-![Stage 1](/images/IBP_Stage1.jpg)
-
-The system will allow the breeder to select the traits on which the decision will be based, and rank them according their value or importance. The traits can be both quantitative or qualitative and all the possibilities of selection criteria will be contemplated, permitting the breeder choose between all imaginable scenarios. This will result in the best possible control over the offspring. 
+<img src="/images/IBP_Stage1.jpg" alt="0" width="50%" height="50%" style="float:left">  
+<p style="text-align:right;">The system will allow the breeder to select the traits on which the decision will be based, and rank them according their value or importance. The traits can be both quantitative or qualitative and all the possibilities of selection criteria will be contemplated, permitting the breeder choose between all imaginable scenarios. This will result in the best possible control over the offspring.</p>
 
 ### Importing genetic markers
 
@@ -57,13 +56,11 @@ A confidence average will be calculated based on wether each desired condition i
 
 ### Displaying the results
 
-The possible crosses will be ordered according to the calculated confidence average and displayed as an actionable histogram for the breeder, displaying the amount of positive crosses available. 
-
-![Stage 2](/images/IBP_Stage2.1.jpg)
-
-A table displaying all the possible crosses **and the actual values for each trait** will be generated, allowing the breeder to select the best crosses to proceed with the breeding experiments. 
-
-![Stage 2](/images/IBP_Stage2.2.jpg)
+<img src="/images/IBP_Stage2.1.jpg" alt="0" width="50%" height="50%" style="float:left">  
+<p style="text-align:right;">
+The possible crosses will be ordered according to the calculated confidence average and displayed as an actionable histogram for the breeder, displaying the amount of positive crosses available.</p>
+<img src="/images/IBP_Stage2.2.jpg" alt="0" width="50%" height="50%" style="float:right">  
+<p style="text-align:left;">A table displaying all the possible crosses **and the actual values for each trait** will be generated, allowing the breeder to select the best crosses to proceed with the breeding experiments.</p>
 
 ### Storing the information
 
@@ -72,33 +69,10 @@ The breeder will have the option to have all the information sent to their email
 
 # testing image formatting from here on
 
-
-<img src="/images/IBP_img2.jpg" alt="IBP Stage 1 image" width="50%" height="50%">  
-
-<img src="/images/IBP_img2.jpg" alt="IBP Stage 1 image" width="20%" height="20%">  
-
-<img src="/images/IBP_img2.jpg" alt="IBP Stage 1 image" width="100">  
-
-
-#### style vertical-align:bottom
-<img src="/images/IBP_img2.jpg" alt="0" width="50" height="50" style="vertical-align:bottom">  
-
-#### style vertical-align:middle
-<img src="/images/IBP_img2.jpg" alt="0" width="50" height="50" style="vertical-align:middle">  
-
-#### style vertical-align:top
-<img src="/images/IBP_img2.jpg" alt="0" width="50" height="50" style="vertical-align:top">  
-
 #### style float:right
 <img src="/images/IBP_img2.jpg" alt="0" width="50" height="50" style="float:right">  
 <p style="text-align:left;"> this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - there is a line break after this<br>
 there should be a line break after this too<br>
 this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image</p>
 
-#### style float:left
-<img src="/images/IBP_img2.jpg" alt="0" width="50" height="50" style="float:left">  
-<p style="text-align:right;"> this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - there is a line break after this<br>
-there should be a line break after this too<br>
-this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image</p>
-
-**Version 6**
+**Version 7**
