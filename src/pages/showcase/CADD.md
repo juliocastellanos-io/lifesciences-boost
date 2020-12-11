@@ -42,7 +42,7 @@ sections:
 template: post
 ---
 
-![Powered by Glabs](/images/Labs-Logo.png)
+![Powered by Glabs](/images/Labs-Logo_small.png)
 
 ## Drug discovery pipeline
 ![Pipeline overview](/images/cadd_fig1_b.png)

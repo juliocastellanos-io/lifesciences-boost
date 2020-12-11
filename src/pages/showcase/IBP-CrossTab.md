@@ -37,7 +37,7 @@ sections:
         align: right   
 template: post
 ---
-## CrossTab
+### CrossTab
 
 In the context of a collaboration between IBP and Globant, we are creating an innovative tool that will allow the breeders obtain recommendations based on the desired traits for the new generations of crops. This application helps the producer choose the right germoplasm to breed between hundreds of options, reducing experimentation costs and times. 
 
@@ -47,7 +47,7 @@ In the context of a collaboration between IBP and Globant, we are creating an in
 
 The system will allow the breeder to select the traits on which the decision will be based, and rank them according their value or importance. The traits can be both quantitative or qualitative and all the possibilities of selection criteria will be contemplated, permitting the breeder choose between all imaginable scenarios. This will result in the best possible control over the offspring. 
 
-### Importing genetic markers
+### Importing genetic markers
 
 CrossTab will allow the breeder upload genetic information for the germoplasm when available. These will be translated utilizing cutting edge translation tables with Single Nucleotide Polymorphisms (SNP) markers linking to crop traits curated by experts in the field. 
 
@@ -69,4 +69,29 @@ A table displaying all the possible crosses **and the actual values for each tra
 
 The breeder will have the option to have all the information sent to their email for future reference. **Additionally, the crosses will also be saved in the CrossTab application to allow a rapid refill of the requeriments in case subtle changes need to be made to the cross to obtain different results and compare between them. A comparison tool between the various results will be added in a future version of the tool.**
 
-**PRUEBA 3**
+
+<img src="/static/images/IBP_Stage1.jpg" alt="IBP Stage 1 image" width="50%" height="50%">
+<img src="/static/images/IBP_Stage1.jpg" alt="IBP Stage 1 image" width="20%" height="20%">
+<img src="/static/images/IBP_Stage1.jpg" alt="IBP Stage 1 image" width="100">
+
+#### style vertical-align:bottom
+<img src="/static/images/IBP_Stage1.jpg" alt="0" width="50" height="50" style="vertical-align:bottom">
+
+#### style vertical-align:middle
+<img src="/static/images/IBP_Stage1.jpg" alt="0" width="50" height="50" style="vertical-align:middle">
+
+#### style vertical-align:top
+<img src="/static/images/IBP_Stage1.jpg" alt="0" width="50" height="50" style="vertical-align:top">
+
+#### style float:right
+<img src="/static/images/IBP_Stage1.jpg" alt="0" width="50" height="50" style="float:right">
+
+#### style float:left
+<img src="/static/images/IBP_Stage1.jpg" alt="0" width="50" height="50" style="float:left">
+
+-------------
+|  1  |  2  |
+|  3  |  4  |
+-------------
+
+**Version 3**
