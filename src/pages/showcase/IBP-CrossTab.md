@@ -70,27 +70,60 @@ A table displaying all the possible crosses **and the actual values for each tra
 The breeder will have the option to have all the information sent to their email for future reference. **Additionally, the crosses will also be saved in the CrossTab application to allow a rapid refill of the requeriments in case subtle changes need to be made to the cross to obtain different results and compare between them. A comparison tool between the various results will be added in a future version of the tool.**
 
 
-<img src="/static/images/IBP_Stage1.jpg" alt="IBP Stage 1 image" width="50%" height="50%">
-<img src="/static/images/IBP_Stage1.jpg" alt="IBP Stage 1 image" width="20%" height="20%">
-<img src="/static/images/IBP_Stage1.jpg" alt="IBP Stage 1 image" width="100">
+# testing image formatting from here on
+
+
+<img src="/images/IBP_img2.jpg" alt="IBP Stage 1 image" width="50%" height="50%">
+this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - there is a line break after this  
+there should be a line break after this too  
+this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - 
+
+<img src="/images/IBP_img2.jpg" alt="IBP Stage 1 image" width="20%" height="20%">
+this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - there is a line break after this  
+there should be a line break after this too  
+this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - 
+
+<img src="/images/IBP_img2.jpg" alt="IBP Stage 1 image" width="100">
+this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - there is a line break after this  
+there should be a line break after this too  
+this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - 
 
 #### style vertical-align:bottom
-<img src="/static/images/IBP_Stage1.jpg" alt="0" width="50" height="50" style="vertical-align:bottom">
+<img src="/images/IBP_img2.jpg" alt="0" width="50" height="50" style="vertical-align:bottom">
+this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - there is a line break after this  
+there should be a line break after this too  
+this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - 
 
 #### style vertical-align:middle
-<img src="/static/images/IBP_Stage1.jpg" alt="0" width="50" height="50" style="vertical-align:middle">
+<img src="/images/IBP_img2.jpg" alt="0" width="50" height="50" style="vertical-align:middle">
+this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - there is a line break after this  
+there should be a line break after this too  
+this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - 
 
 #### style vertical-align:top
-<img src="/static/images/IBP_Stage1.jpg" alt="0" width="50" height="50" style="vertical-align:top">
+<img src="/images/IBP_img2.jpg" alt="0" width="50" height="50" style="vertical-align:top">
+this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - there is a line break after this  
+there should be a line break after this too  
+this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - 
 
 #### style float:right
-<img src="/static/images/IBP_Stage1.jpg" alt="0" width="50" height="50" style="float:right">
+<img src="/images/IBP_img2.jpg" alt="0" width="50" height="50" style="float:right">
+this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - there is a line break after this  
+there should be a line break after this too  
+this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - 
 
 #### style float:left
-<img src="/static/images/IBP_Stage1.jpg" alt="0" width="50" height="50" style="float:left">
+<img src="/images/IBP_img2.jpg" alt="0" width="50" height="50" style="float:left">
+this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - there is a line break after this  
+there should be a line break after this too  
+this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - this is just some text to be in between the image - 
+
+
+#### Table test
 
 -------------
 |  1  |  2  |
+-------------
 |  3  |  4  |
 -------------
 
