@@ -72,3 +72,5 @@ The possible crosses will be ordered according to the calculated confidence aver
 ### Storing the information
 
 The breeder will have the option to have all the information sent to their email for future reference. Additionally, the crosses will also be saved in the CrossTab application to allow a rapid refill of the requeriments in case subtle changes need to be made to the cross to obtain different results and compare between them. **A comparison tool between the various results will be added in a future version of the tool.**
+
+l
