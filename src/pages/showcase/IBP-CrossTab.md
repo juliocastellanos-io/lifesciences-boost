@@ -56,7 +56,6 @@ template: post
 
 ### Displaying the results
 <br>
-<br>
 <img src="/images/IBP_Stage2.1.jpg" alt="0" width="60%" height="60%" style="float:left">  
 <p style="text-align:justify;">
 The possible crosses will be ordered according to the calculated confidence average and displayed as an actionable histogram for the breeder, displaying the amount of positive crosses available.</p>
