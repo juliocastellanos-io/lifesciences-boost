@@ -39,7 +39,7 @@ template: post
 ---
 ### CrossTab
 
-In the context of a collaboration between IBP and Globant, we are creating an innovative tool that will allow the breeders obtain recommendations based on the desired traits for the new generations of crops. This application helps the producer choose the right germoplasm to breed between hundreds of options, reducing experimentation costs and times. 
+<p style="text-align:justify;">In the context of a collaboration between IBP and Globant, we are creating an innovative tool that will allow the breeders obtain recommendations based on the desired traits for the new generations of crops. This application helps the producer choose the right germoplasm to breed between hundreds of options, reducing experimentation costs and times. </p>
 
 ### Deciding on the desired traits
 
@@ -48,17 +48,19 @@ In the context of a collaboration between IBP and Globant, we are creating an in
 
 ### Importing genetic markers
 
-CrossTab will allow the breeder upload genetic information for the germoplasm when available. These will be translated utilizing cutting edge translation tables with Single Nucleotide Polymorphisms (SNP) markers linking to crop traits curated by experts in the field. 
+<p style="text-align:justify;">CrossTab will allow the breeder upload genetic information for the germoplasm when available. These will be translated utilizing cutting edge translation tables with Single Nucleotide Polymorphisms (SNP) markers linking to crop traits curated by experts in the field.</p>
 
 ### Calculating the best fit
 
-A confidence average will be calculated based on wether each desired condition is met and the weight the breeder has assigned to each one of them. An extra level of complexity will be archieved using the uploaded genetic information for the germoplasm if available, which will also be utilized to calculate a genetic variability index. 
+<p style="text-align:justify;">A confidence average will be calculated based on wether each desired condition is met and the weight the breeder has assigned to each one of them. An extra level of complexity will be archieved using the uploaded genetic information for the germoplasm if available, which will also be utilized to calculate a genetic variability index. </p>
 
 ### Displaying the results
-
+<br>
+<br>
 <img src="/images/IBP_Stage2.1.jpg" alt="0" width="60%" height="60%" style="float:left">  
 <p style="text-align:justify;">
 The possible crosses will be ordered according to the calculated confidence average and displayed as an actionable histogram for the breeder, displaying the amount of positive crosses available.</p>
+<br>
 <br>
 <br>
 <img src="/images/IBP_Stage2.2.jpg" alt="0" width="60%" height="60%" style="float:right">  
@@ -68,4 +70,4 @@ The possible crosses will be ordered according to the calculated confidence aver
 
 ### Storing the information
 
-The breeder will have the option to have all the information sent to their email for future reference. Additionally, the crosses will also be saved in the CrossTab application to allow a rapid refill of the requeriments in case subtle changes need to be made to the cross to obtain different results and compare between them.
+<p style="text-align:justify;">The breeder will have the option to have all the information sent to their email for future reference. Additionally, the crosses will also be saved in the CrossTab application to allow a rapid refill of the requeriments in case subtle changes need to be made to the cross to obtain different results and compare between them.</p>
