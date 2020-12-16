@@ -71,5 +71,5 @@ The possible crosses will be ordered according to the calculated confidence aver
 
 <p style="text-align:justify;">The breeder will have the option to have all the information sent to their email for future reference. Additionally, the crosses will also be saved in the CrossTab application to allow a rapid refill of the requeriments in case subtle changes need to be made to the cross to obtain different results and compare between them.</p>
 
-#### Powered by 
+Powered by 
 <img src="/static/images/logo-labs.svg" alt="GLabs" height="60">
