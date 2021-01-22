@@ -71,4 +71,4 @@ The possible crosses will be ordered according to the calculated confidence aver
 <br>
 <br>
 Powered by 
-<img src="/images/logo-labs.svg" alt="GLabs" style="height: 5%; float:center; width: 5%;">
+<img src="Labs-Logo_small.png" alt="GLabs" style="float:center;">
