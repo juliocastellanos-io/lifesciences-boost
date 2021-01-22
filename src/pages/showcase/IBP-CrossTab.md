@@ -61,6 +61,8 @@ template: post
 The possible crosses will be ordered according to the calculated confidence average and displayed as an actionable histogram for the breeder, showing the number of crosses within each confidence average interval.</p>
 <br>
 <br>
+<br>
+<br>
 <img src="/images/IBP_Stage2.2.jpg" alt="Results 2" width="60%" height="60%" style="float:right">  
 <p style="text-align:justify;">A table displaying all the possible crosses and the actual values for each trait will be generated, allowing the breeder to pinpoint the best crosses to start the breeding experiments.</p>
 <br>
@@ -71,4 +73,4 @@ The possible crosses will be ordered according to the calculated confidence aver
 <br>
 <br>
 Powered by 
-<img src="Labs-Logo_small.png" alt="GLabs" style="float:center;">
+<img src="Labs-Logo_small.gif" alt="GLabs" style="float:center;">
