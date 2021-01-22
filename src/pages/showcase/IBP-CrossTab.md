@@ -43,7 +43,7 @@ template: post
 
 ### Choosing on the desired traits
 
-<img src="/images/IBP_Stage1_new.jpg" alt="Stage 1" style="float:left">  
+<img src="/images/IBP_Stage1_new.jpg" alt="Stage 1"  width="60%" height="60%" style="float:left">  
 <p style="text-align:justify;">The system will allow the breeder to select the traits and the value of the traits on which the algorithm will be based, and and rank them according to their importance. The traits can be both quantitative or qualitative and a great deal of selection criteria will be contemplated at the same time, permitting the breeder to choose among all imaginable scenarios. "Must have" option will also be available to filter out germplasm that does not comply with a certain selection criteria alltogether. This will achieve unprecedent control over the future features of the offspring.</p>
 
 ### Importing genetic markers
@@ -56,7 +56,7 @@ template: post
 
 ### Displaying the results
 <br>
-<img src="/images/IBP_Stage2.1_new.jpg" alt="Results 1" style="float:left">  
+<img src="/images/IBP_Stage2.1_new.jpg" alt="Results 1"  width="60%" height="60%" style="float:left">  
 <p style="text-align:justify;">
 The possible crosses will be ordered according to the calculated confidence average and displayed as an actionable histogram for the breeder, showing the number of crosses within each confidence average interval.</p>
 <br>
