@@ -13,7 +13,7 @@ sections:
       databases.
     actions:
       - label: Live Demo
-        url: 'http://134.122.26.41:3000'
+        url: 'http://10.200.79.15:3000/'
         style: primary
     align: left
     image: images/drug_hero.png
@@ -54,7 +54,7 @@ sections:
       Make sure you are connected to Globant's VPN
     actions:
       - label: Live Demo
-        url: http://134.122.26.41:3000
+        url: http://10.200.79.15:3000/
         style: primary
     has_background: true
     background_color: gray

@@ -1,13 +1,13 @@
 ---
-title: On Demand Medical AI
+title: AI Disease pattern detection in chest X-rays 
 date: '2020-11-30'
-image: images/ai.png
+image: images/ai-d-2.png
 categories:
   - data/categories/demo.yaml
-excerpt: 'Integrate Pre-tranined AI model on a any PACS server.'
+excerpt: 'AI Disease pattern detection in chest X-rays '
 sections:
   - type: hero_section
-    title: On Demand Medical AI
+    title: AI Disease pattern detection in chest X-rays 
     subtitle: >-
       Integrate Pre-tranined AI model on a any PACS server.
     actions:
@@ -15,7 +15,7 @@ sections:
         url: 'http://on-demad-ai-life-sciences.s3-website-us-east-1.amazonaws.com/'
         style: primary
     align: left
-    image: images/ai.png
+    image: images/ai-d-2.png
     image_position: right
     has_background: true
     background:

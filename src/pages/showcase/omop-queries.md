@@ -12,7 +12,7 @@ sections:
       Mapper and query builder from FHIR to OMOP data model
     actions:
       - label: Live Demo
-        url: ''
+        url: 'http://10.200.79.15:3007/'
         style: primary
     align: left
     image: images/omop.png
@@ -45,7 +45,7 @@ sections:
       Make sure you are connected to Globant's VPN
     actions:
       - label: Live Demo
-        url: 'http://on-demad-ai-life-sciences.s3-website-us-east-1.amazonaws.com/'
+        url: 'http://10.200.79.15:3007/'
         style: primary
     has_background: true
     background_color: gray
