@@ -15,7 +15,7 @@ sections:
         url: 'http://on-demad-ai-life-sciences-v2.s3-website-us-east-1.amazonaws.com/'
         style: primary
     align: left
-    image: images/ai-l-f-1.png
+    video: images/medical-ai-demo.mp4
     image_position: right
     has_background: true
     background:

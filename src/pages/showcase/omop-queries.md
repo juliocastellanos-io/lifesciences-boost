@@ -15,7 +15,7 @@ sections:
         url: 'http://10.200.79.15:3007/'
         style: primary
     align: left
-    image: images/omop.png
+    video: images/omop-demo.mp4
     image_position: right
     has_background: true
     background:

@@ -16,7 +16,7 @@ sections:
         url: 'http://10.200.79.15:3000/'
         style: primary
     align: left
-    image: images/drug_hero.png
+    video: images/drug-demo.mp4
     image_position: right
     has_background: true
     background:

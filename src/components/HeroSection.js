@@ -25,6 +25,14 @@ export default class HeroSection extends React.Component {
                     <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'title', null)} />
                   </div>
                   )}
+                   {_.get(section, 'video', null) && (
+                     <div className={classNames('cell', 'section__media', {'section__media--right': _.get(section, 'image_position', null) === 'right'})}>
+                      <video width="800" height="400" autoPlay loop controls >
+                        <source src={withPrefix(_.get(section, 'video', null))} type="video/mp4"/>
+                        Your browser does not support the video tag.
+                      </video>
+                    </div>
+                  )}
                   <div className="cell section__body">
                     {_.get(section, 'title', null) && (
                     <h1 className="section__title">{_.get(section, 'title', null)}</h1>

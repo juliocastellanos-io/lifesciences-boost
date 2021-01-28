@@ -13,6 +13,11 @@
                 "label": "Onoging Research",
                 "url": "/showcase/category/research",
                 "style": "link"
+            },
+            {
+                "label": "Status",
+                "url": "/status",
+                "style": "primary"
             }
         ]
     },
