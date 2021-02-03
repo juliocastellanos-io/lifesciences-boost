@@ -24,15 +24,21 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-  - type: features_section
-    title: Features
+  - type: First model
+    title: Easy multiple sclerosis white matter lesion segmentation using convolutional deep neural networks.
     features:
-      - title: PACS Integration
+      - title: Upload studies
         content: >-
-         Connect to the a PACS server and get patient's medical imaging information to analyze.
+         1. FLAIR: Fluid-attenuated inversion recovery is an MRI sequence with an inversion recovery set to null fluids.
+
+         2. T1-w: T1 weighted image is a basic pulse MRI sequence that depicts differences in signal based upon intrinsic T1 relaxation time of various tissues.
+
+         3. T2-w: T2 weighted image is a basic pulse MRI sequence that depicts differences in signal based upon intrinsic T1 relaxation time of various tissues.
+
+         4. PD: Proton Density weighted image is a MRI sequence where the tissues with the higher concentration or density of protons (hydrogen atoms) produce the strongest signals and appear the brightest on the image.
         align: left
-        image: images/ai-l-f-2.png   # change
-        image_position: right
+        image: images/msc_sequences.png   
+        image_position: right 
       - title: 3D render visualization
         content: >-
           Get a 3D visualization of the detected tumor
@@ -48,14 +54,16 @@ sections:
   - type: cta_section
     title:  AI Lung Tumor Detection 
     subtitle: >-
-      Make sure you are connected to Globant's VPN
+      Make sure you are connected to Globant's VPN  
     actions:
       - label: Live Demo
         url: 'http://on-demad-ai-life-sciences-v2.s3-website-us-east-1.amazonaws.com/'
         style: primary
     has_background: true
     background_color: gray
-template: post
+template: post 
+
+# Compare follow-up MRI studies
 ---
 ## How to run the demo
 
