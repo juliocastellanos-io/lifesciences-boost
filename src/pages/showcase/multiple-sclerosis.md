@@ -27,7 +27,7 @@ sections:
   - type: First model
     title: Easy multiple sclerosis white matter lesion segmentation using convolutional deep neural networks.
     features:
-      - title: Upload studies
+      - title: MRI sequences
         content: >-
          1. FLAIR: Fluid-attenuated inversion recovery is an MRI sequence with an inversion recovery set to null fluids.
 
@@ -39,35 +39,35 @@ sections:
         align: left
         image: images/msc_sequences.png   
         image_position: right 
-      - title: 3D render visualization
-        content: >-
-          Get a 3D visualization of the detected tumor
-        align: left
-        image: images/ai-l-3.png
-        image_position: left
-      - title: DICOM Tools and Metrics
-        content: >-
-          Visual tools for browsing and manipulating DICOM series, get metrics and export images.
-        align: left
-        image: images/ai-l-f-1.png
-        image_position: right
-  - type: cta_section
-    title:  AI Lung Tumor Detection 
-    subtitle: >-
-      Make sure you are connected to Globant's VPN  
-    actions:
-      - label: Live Demo
-        url: 'http://on-demad-ai-life-sciences-v2.s3-website-us-east-1.amazonaws.com/'
-        style: primary
-    has_background: true
-    background_color: gray
+      # - title: 3D render visualization
+      #   content: >-
+      #     Get a 3D visualization of the detected tumor
+      #   align: left
+      #   image: images/ai-l-3.png
+      #   image_position: left
+      # - title: DICOM Tools and Metrics
+      #   content: >-
+      #     Visual tools for browsing and manipulating DICOM series, get metrics and export images.
+      #   align: left
+      #   image: images/ai-l-f-1.png
+      #   image_position: right
+  # - type: cta_section
+  #   title:  AI Lung Tumor Detection 
+  #   subtitle: >-
+  #     Make sure you are connected to Globant's VPN  
+  #   actions:
+  #     - label: Live Demo
+  #       url: 'http://on-demad-ai-life-sciences-v2.s3-website-us-east-1.amazonaws.com/'
+  #       style: primary
+  #   has_background: true
+  #   background_color: gray
 template: post 
 
 # Compare follow-up MRI studies
 ---
-## How to run the demo
+## Models
 
-## Run the model
+# Model 1
 
 
 - Go to the demo link
