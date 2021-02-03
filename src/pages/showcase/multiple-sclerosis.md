@@ -24,7 +24,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-  - type: First model
+  - type: features-section
     title: Easy multiple sclerosis white matter lesion segmentation using convolutional deep neural networks.
     features:
       - title: MRI sequences
