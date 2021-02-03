@@ -1,7 +1,7 @@
 ---
 title: AI Disease pattern detection in chest X-rays 
 date: '2020-11-30'
-image: images/ai-d-2.png
+image: images/ai-l-d-5.png
 categories:
   - data/categories/demo.yaml
 excerpt: 'AI Disease pattern detection in chest X-rays '
@@ -61,9 +61,9 @@ template: post
 
 - Go to the demo link
 - You will see the following page, press the search button
-![Demo](/images/ai-d-1.png)
+![Demo](/images/ai-l-d-1.png)
 - Search for "Drake", press the search button
 - Press "REALIZAR ANALISIS"
 - You will get the results
 
-![Demo](/images/ai-d-2.png)
+![Demo](/images/ai-l-d-5.png)
