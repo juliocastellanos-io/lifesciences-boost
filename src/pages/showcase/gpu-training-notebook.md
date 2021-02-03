@@ -15,7 +15,7 @@ sections:
         url: 'http://10.200.79.15/'
         style: primary
     align: left
-    image: images/jupy.png
+    video: images/demo-gpu.mp4
     image_position: right
     has_background: true
     background:
