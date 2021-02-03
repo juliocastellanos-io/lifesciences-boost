@@ -29,13 +29,14 @@ sections:
     features:
       - title: MRI sequences
         content: >-
-         1. FLAIR: Fluid-attenuated inversion recovery is an MRI sequence with an inversion recovery set to null fluids.
+          ** 1. FLAIR:** Fluid-attenuated inversion recovery is an MRI sequence with an inversion recovery set to null fluids. \
 
-         2. T1-w: T1 weighted image is a basic pulse MRI sequence that depicts differences in signal based upon intrinsic T1 relaxation time of various tissues.
+          **2. T1-w:** T1 weighted image is a basic pulse MRI sequence that depicts differences in signal based upon intrinsic T1 relaxation time of various tissues. \
 
-         3. T2-w: T2 weighted image is a basic pulse MRI sequence that depicts differences in signal based upon intrinsic T1 relaxation time of various tissues.
+          **3. T2-w:** T2 weighted image is a basic pulse MRI sequence that depicts differences in signal based upon intrinsic T1 relaxation time of various tissues. \
 
-         4. PD: Proton Density weighted image is a MRI sequence where the tissues with the higher concentration or density of protons (hydrogen atoms) produce the strongest signals and appear the brightest on the image.
+          **4. PD:** Proton Density weighted image is a MRI sequence where the tissues with the higher concentration or density of protons (hydrogen atoms) produce the strongest signals and appear the brightest on the image. \
+
         align: left
         image: images/msc_sequences.png   
         image_position: right 
