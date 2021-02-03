@@ -1,6 +1,6 @@
 ---
-title: AI Lung Tumor Detection 
-date: '2021-01-25'
+title: Multiple Sclerosis Lesion Segmentation 
+date: '2021-02-03'
 image: images/msc_image.png
 categories:
   - data/categories/demo.yaml
@@ -10,10 +10,10 @@ sections:
     title: Multiple Sclerosis Lesion Segmentation AI
     subtitle: >-
       Multiple sclerosis lesion segmentation from MRI scans.
-    actions:
-      - label: Live Demo
-        url: 'http://on-demad-ai-life-sciences-v2.s3-website-us-east-1.amazonaws.com/'  # change
-        style: primary
+    # actions:  # sacar
+    #   - label: Live Demo
+    #     url: 'http://on-demad-ai-life-sciences-v2.s3-website-us-east-1.amazonaws.com/'  # change
+    #     style: primary
     align: left
     video: images/nicMSlesions_flair_registered.mp4  
     image_position: right
