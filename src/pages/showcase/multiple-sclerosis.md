@@ -1,7 +1,7 @@
 ---
 title: Multiple Sclerosis Lesion Segmentation 
 date: '2021-02-03'
-image: images/msc_image.png
+image: images/msc_image.PNG
 categories:
   - data/categories/demo.yaml
 excerpt: 'Multiple sclerosis lesion segmentation from MRI scans.'
