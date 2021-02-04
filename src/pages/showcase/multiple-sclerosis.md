@@ -43,8 +43,8 @@ sections:
 
 
 
-          &Rightarrow; The **FLAIR** sequence specifically can be used in brain imaging to suppress cerebrospinal fluid (CSF) effects on the image,  being the most adequate to bring out the periventricular hyperintense lesions, such as **multiple sclerosis** plaques. 
-          &Rightarrow; Thus it is the one used when ovelaying the segmentation of such lesions for medical visualization.
+          &Rightarrow; The **FLAIR** sequence, specifically, can be used in brain imaging to suppress cerebrospinal fluid (CSF) effects on the image,  being the most adequate to bring out the periventricular hyperintense lesions, such as **multiple sclerosis** plaques. \
+          &Rightarrow; Thus it is the one used when ovelaying the segmentation of such lesions for **medical visualization**.
 
         align: left
         image: images/msc_sequences_resized.png   
@@ -105,7 +105,6 @@ You will obtain a **mask** with the segmentation
 
 Here the mask is shown overlaid on the **FLAIR** sequence
 <!-- &Rightarrow; This specific sequence can be used in brain imaging to suppress cerebrospinal fluid (CSF) effects on the image, so as to bring out the periventricular hyperintense lesions, such as multiple sclerosis plaques. -->
-<br>
 <br>
 <br>
 
