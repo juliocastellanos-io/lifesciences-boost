@@ -107,8 +107,9 @@ By means of this AI model, multiple sclerosis lesion segmentatation can be perfo
 
 This helps to monitor the evolution of the disease
 <br>
+<br>
 
-<video auto-play loop playsinline>
+<video data-autoplay loop playsinline>
   <source src="/images/nicMSlesions_flair_follow-up.mp4" type="video/mp4">
 </video>
 <!-- ![Demo](/images/nicMSlesions_flair_follow-up.mp4) -->
