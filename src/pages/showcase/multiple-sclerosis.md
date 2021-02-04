@@ -1,15 +1,15 @@
 ---
 title: Multiple Sclerosis Lesion Segmentation 
 date: '2021-02-03'
-image: images/msc_image.PNG
+image: images/msc_cover.png
 categories:
   - data/categories/demo.yaml
-excerpt: 'Multiple sclerosis lesion segmentation from MRI scans.'
+excerpt: 'AI segmentation from MRI scans.'
 sections:
   - type: hero_section
     title: Multiple Sclerosis Lesion Segmentation AI
     subtitle: >-
-      Multiple sclerosis lesion segmentation from MRI scans.
+      Lesion segmentation and visualization for medical applications in MRI scans.
     # actions:  # sacar
     #   - label: Live Demo
     #     url: 'http://on-demad-ai-life-sciences-v2.s3-website-us-east-1.amazonaws.com/'  # change
@@ -27,7 +27,9 @@ sections:
   - type: features-section
     title: MRI sequences
     features:
-      - title: 
+      - title: Useful sequences for AI models 
+
+
         content: >-
           1. **FLAIR:** Fluid-attenuated inversion recovery is an MRI sequence with an inversion recovery set to null fluids.
    
@@ -79,20 +81,24 @@ template: post
 ### How does it work?
 <br>
 
-- For each subject, use FLAIR and T1-w images to infer segmentation
+&Rightarrow; **Input:**  
+For each subject, use **FLAIR** and **T1-w** images to infer segmentation 
+<br>
 <br>
 
-- You will obtain a mask with the segmentation
+&Rightarrow; **Output:** 
+<br>
+You will obtain a **mask** with the segmentation
+<br>
 <br>
 
-- It can be overlaid on the MRI study with a medical image viewer
+&Rightarrow; The output mask can be overlaid with the input MRI study in a **medical image viewer**
 <br>
 <br>
 
 ![Demo](/images/FLAIR_segmentation_resized.png)
 
-Here the mask is shown overlaid on the **FLAIR** sequence/
-
+Here the mask is shown overlaid on the **FLAIR** sequence\
 &Rightarrow; This specific sequence can be used in brain imaging to suppress cerebrospinal fluid (CSF) effects on the image, so as to bring out the periventricular hyperintense lesions, such as multiple sclerosis plaques.
 <br>
 <br>
@@ -107,7 +113,7 @@ By means of this AI model, multiple sclerosis lesion segmentatation can be perfo
 <br>
 <br>
 
-![Demo](/images/nicMSlesions_flair_follow-up.gif)
+![Demo](/images/nicMSlesions-flair-follow-up.gif)
 
 <!-- <video data-autoplay loop playsinline>
   <source src="/images/nicMSlesions_flair_follow-up.mp4" type="video/mp4">
