@@ -87,7 +87,7 @@ Easy multiple sclerosis white matter lesion segmentation using convolutional dee
 By means of this AI model Multiple sclerosis lesion segmentatation can be performed on consecutive MRI studies
 This allows for the monitoring the evolution of the disease
 
-<video>
+<video autoplay loop playsinline>
   <source src="/images/nicMSlesions_flair_follow-up.mp4" type="video/mp4">
 </video>
 <!-- ![Demo](/images/nicMSlesions_flair_follow-up.mp4) -->
