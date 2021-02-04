@@ -70,24 +70,40 @@ template: post
 # Compare follow-up MRI studies
 ---
 # AI Model
+<br>
 
-## Pipeline
+**Easy multiple sclerosis white matter lesion segmentation using convolutional deep neural networks.**
+<br>
+<br>
 
-Easy multiple sclerosis white matter lesion segmentation using convolutional deep neural networks.
+### How does it work?
+<br>
 
 - For each subject, use FLAIR and T1-w images to infer segmentation
+<br>
+
 - You will obtain a mask with the segmentation
+<br>
+
+- It can be overlaid on the MRI study with a medical image viewer
+<br>
+
 ![Demo](/images/FLAIR_segmentation_resized.png)
-- It can be overlayed on the MRI study with a medical image viewer
-- Here it is done over the FLAIR sequence, since it can be used in brain imaging to suppress cerebrospinal fluid (CSF) effects on the image, so as to bring out the periventricular hyperintense lesions, such as multiple sclerosis (MS) plaques.
 
+- Here the mask is shown overlaid on the **FLAIR** sequence
+This specific sequence can be used in brain imaging to suppress cerebrospinal fluid (CSF) effects on the image, so as to bring out the periventricular hyperintense lesions, such as multiple sclerosis (MS) plaques.
+<br>
+<br>
 
-## Follow-up
+### Follow-up
+<br>
 
-By means of this AI model Multiple sclerosis lesion segmentatation can be performed on consecutive MRI studies
+By means of this AI model, multiple sclerosis lesion segmentatation can be performed on consecutive MRI studies
+<br>
+
 This allows for the monitoring the evolution of the disease
 
-<video allow="autoplay" loop playsinline>
+<video data_autoplay loop playsinline>
   <source src="/images/nicMSlesions_flair_follow-up.mp4" type="video/mp4">
 </video>
 <!-- ![Demo](/images/nicMSlesions_flair_follow-up.mp4) -->
