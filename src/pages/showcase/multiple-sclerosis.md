@@ -26,7 +26,7 @@ sections:
       background_image_repeat: repeat
   - type: features-section
     title: Useful MRI sequences for AI models 
-    <br>
+
     features:
       - title: 
         content: >-
@@ -115,6 +115,28 @@ By means of this AI model, multiple sclerosis lesion segmentatation can be perfo
 <br>
 
 ![Demo](/images/nicMSlesions-flair-follow-up.gif)
+
+<br>
+<br>
+<br>
+
+# Alternative AI Model
+<br>
+
+**Random Forest for Multiple Sclerosis Lesion Segmentation**
+<br>
+
+- Advantage: 750% **faster** model
+<br>
+
+- Disadvantage: more **complex** input (it requires FLAIR, T1-w, T2-w and PD sequences)
+<br>
+
+- Result: **mask** with the segmentation
+<br>
+<br>
+
+![Demo](/images/ms2016-flair.gif)
 
 <!-- <video data-autoplay loop playsinline>
   <source src="/images/nicMSlesions_flair_follow-up.mp4" type="video/mp4">
