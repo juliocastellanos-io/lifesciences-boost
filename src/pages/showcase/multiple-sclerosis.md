@@ -41,7 +41,7 @@ sections:
           4. **PD:** Proton Density weighted image is a MRI sequence where the tissues with the higher concentration or density of protons (hydrogen atoms) produce the strongest signals and appear the brightest on the image.
 
         align: left
-        image: images/msc_sequences_resized2.png   
+        image: images/msc_sequences_resized.png   
         image_position: right 
       # - title: 3D render visualization
       #   content: >-
@@ -87,7 +87,7 @@ Easy multiple sclerosis white matter lesion segmentation using convolutional dee
 By means of this AI model Multiple sclerosis lesion segmentatation can be performed on consecutive MRI studies
 This allows for the monitoring the evolution of the disease
 
-<video autoplay loop playsinline>
+<video allow="autoplay" loop playsinline>
   <source src="/images/nicMSlesions_flair_follow-up.mp4" type="video/mp4">
 </video>
 <!-- ![Demo](/images/nicMSlesions_flair_follow-up.mp4) -->
