@@ -25,11 +25,10 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features-section
-    title: MRI sequences
+    title: Useful MRI sequences for AI models 
+    <br>
     features:
-      - title: Useful sequences for AI models 
-
-
+      - title: 
         content: >-
           1. **FLAIR:** Fluid-attenuated inversion recovery is an MRI sequence with an inversion recovery set to null fluids.
    
@@ -96,9 +95,11 @@ You will obtain a **mask** with the segmentation
 <br>
 <br>
 
-![Demo](/images/FLAIR_segmentation_resized.png)
+<!-- ![Demo](/images/FLAIR_segmentation_resized.png) -->
+<img align = "center" src="/images/FLAIR_segmentation_resized.png">
 
-Here the mask is shown overlaid on the **FLAIR** sequence\
+Here the mask is shown overlaid on the **FLAIR** sequence
+
 &Rightarrow; This specific sequence can be used in brain imaging to suppress cerebrospinal fluid (CSF) effects on the image, so as to bring out the periventricular hyperintense lesions, such as multiple sclerosis plaques.
 <br>
 <br>
