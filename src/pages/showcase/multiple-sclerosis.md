@@ -132,11 +132,11 @@ By means of this AI model, multiple sclerosis lesion segmentatation can be perfo
 - Disadvantage: more **complex** input (it requires FLAIR, T1-w, T2-w and PD sequences)
 <br>
 
-- Result: **mask** with the segmentation
+- Result: MS lesion segmentation as a **3D mask**
 <br>
 <br>
 
-![Demo](/images/ms2016-flair.gif)
+![Demo](/images/uthmri-flair.gif)
 
 <!-- <video data-autoplay loop playsinline>
   <source src="/images/nicMSlesions_flair_follow-up.mp4" type="video/mp4">
