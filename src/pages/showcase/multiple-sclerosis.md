@@ -91,10 +91,9 @@ template: post
 
 ![Demo](/images/FLAIR_segmentation_resized.png)
 
-Here the mask is shown overlaid on the **FLAIR** sequence
-<br>
+Here the mask is shown overlaid on the **FLAIR** sequence/
 
-This specific sequence can be used in brain imaging to suppress cerebrospinal fluid (CSF) effects on the image, so as to bring out the periventricular hyperintense lesions, such as multiple sclerosis plaques.
+&Rightarrow; This specific sequence can be used in brain imaging to suppress cerebrospinal fluid (CSF) effects on the image, so as to bring out the periventricular hyperintense lesions, such as multiple sclerosis plaques.
 <br>
 <br>
 <br>
@@ -102,16 +101,17 @@ This specific sequence can be used in brain imaging to suppress cerebrospinal fl
 ### Facilitating medical follow-up
 <br>
 
-By means of this AI model, multiple sclerosis lesion segmentatation can be performed on consecutive MRI studies
+By means of this AI model, multiple sclerosis lesion segmentatation can be performed on consecutive MRI studies /
+
+&Rightarrow; This helps to monitor the evolution of the disease
+<br>
 <br>
 
-This helps to monitor the evolution of the disease
-<br>
-<br>
+![Demo](/images/nicMSlesions_flair_follow-up.gif)
 
-<video data-autoplay loop playsinline>
+<!-- <video data-autoplay loop playsinline>
   <source src="/images/nicMSlesions_flair_follow-up.mp4" type="video/mp4">
-</video>
+</video> -->
 <!-- ![Demo](/images/nicMSlesions_flair_follow-up.mp4) -->
 
 <!-- - A loading page will be presented
