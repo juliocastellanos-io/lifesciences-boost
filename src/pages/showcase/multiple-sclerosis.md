@@ -40,9 +40,12 @@ sections:
 
 
           4. **PD:** Proton Density weighted image is a MRI sequence where the tissues with the higher concentration or density of protons (hydrogen atoms) produce the strongest signals and appear the brightest on the image.
-          <br>
+          
 
-          &Rightarrow; The **FLAIR** sequence, specifically, can be used in brain imaging to suppress cerebrospinal fluid (CSF) effects on the image,  being the most adequate to bring out the periventricular hyperintense lesions, such as **multiple sclerosis** plaques.\
+
+
+          &Rightarrow; The **FLAIR** sequence, specifically, can be used in brain imaging to suppress cerebrospinal fluid (CSF) effects on the image,  being the most adequate to bring out the periventricular hyperintense lesions, such as **multiple sclerosis** plaques.
+
           &Rightarrow; Thus it is the one used when ovelaying the segmentation of such lesions for **medical visualization**.
 
         align: left
@@ -116,6 +119,7 @@ By means of this AI model, multiple sclerosis lesion segmentatation can be perfo
 <br>
 
 ![Demo](/images/nicMSlesions-flair-follow-up.gif)
+<br>
 <br>
 
 # Alternative AI Model
