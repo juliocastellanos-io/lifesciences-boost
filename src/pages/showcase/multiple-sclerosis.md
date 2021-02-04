@@ -9,7 +9,7 @@ sections:
   - type: hero_section
     title: Multiple Sclerosis Lesion Segmentation AI
     subtitle: >-
-      Lesion segmentation and visualization for medical applications in MRI scans.
+      Lesion segmentation and visualization for medical applications in MRI scans
     # actions:  # sacar
     #   - label: Live Demo
     #     url: 'http://on-demad-ai-life-sciences-v2.s3-website-us-east-1.amazonaws.com/'  # change
@@ -36,7 +36,7 @@ sections:
           2. **T1-w:** T1 weighted image is a basic pulse MRI sequence that depicts differences in signal based upon intrinsic T1 relaxation time of various tissues.
 
 
-          3. **T2-w:** T2 weighted image is a basic pulse MRI sequence that depicts differences in signal based upon intrinsic T1 relaxation time of various tissues.
+          3. **T2-w:** T2 weighted image is a basic pulse MRI sequence that depicts differences in signal based upon intrinsic T2 relaxation time of various tissues.
 
 
           4. **PD:** Proton Density weighted image is a MRI sequence where the tissues with the higher concentration or density of protons (hydrogen atoms) produce the strongest signals and appear the brightest on the image.
@@ -108,15 +108,14 @@ Here the mask is shown overlaid on the **FLAIR** sequence
 ### Facilitating medical follow-up
 <br>
 
-By means of this AI model, multiple sclerosis lesion segmentatation can be performed on consecutive MRI studies /
+By means of this AI model, multiple sclerosis lesion segmentatation can be performed on consecutive MRI studies 
 
-&Rightarrow; This helps to monitor the evolution of the disease
+&Rightarrow; This helps to **monitor the evolution of the disease**
 <br>
 <br>
 
 ![Demo](/images/nicMSlesions-flair-follow-up.gif)
 
-<br>
 <br>
 <br>
 
@@ -129,7 +128,7 @@ By means of this AI model, multiple sclerosis lesion segmentatation can be perfo
 - Advantage: 750% **faster** model
 <br>
 
-- Disadvantage: more **complex** input (it requires FLAIR, T1-w, T2-w and PD sequences)
+- Disadvantage: more **complex** input (it requires **FLAIR**, **T1-w**, **T2-w** and **PD** sequences)
 <br>
 
 - Result: MS lesion segmentation as a **3D mask**
