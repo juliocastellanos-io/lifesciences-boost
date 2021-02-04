@@ -95,8 +95,8 @@ You will obtain a **mask** with the segmentation
 <br>
 <br>
 
-<!-- ![Demo](/images/FLAIR_segmentation_resized.png) -->
-<img align = "center" src="/images/FLAIR_segmentation_resized.png">
+![Demo](/images/FLAIR_segmentation_resized.png)
+<!-- <img align = "center" src="/images/FLAIR_segmentation_resized.png"> -->
 
 Here the mask is shown overlaid on the **FLAIR** sequence
 
