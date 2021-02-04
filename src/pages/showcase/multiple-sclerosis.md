@@ -29,16 +29,19 @@ sections:
     features:
       - title: 
         content: >-
-          1. **FLAIR:** Fluid-attenuated inversion recovery is an MRI sequence with an inversion recovery set to null fluids.\
+          1. **FLAIR:** Fluid-attenuated inversion recovery is an MRI sequence with an inversion recovery set to null fluids.
+   
 
-          2. **T1-w:** T1 weighted image is a basic pulse MRI sequence that depicts differences in signal based upon intrinsic T1 relaxation time of various tissues.\
+          2. **T1-w:** T1 weighted image is a basic pulse MRI sequence that depicts differences in signal based upon intrinsic T1 relaxation time of various tissues.
 
-          3. **T2-w:** T2 weighted image is a basic pulse MRI sequence that depicts differences in signal based upon intrinsic T1 relaxation time of various tissues.\
 
-          4. **PD:** Proton Density weighted image is a MRI sequence where the tissues with the higher concentration or density of protons (hydrogen atoms) produce the strongest signals and appear the brightest on the image.\
+          3. **T2-w:** T2 weighted image is a basic pulse MRI sequence that depicts differences in signal based upon intrinsic T1 relaxation time of various tissues.
+
+
+          4. **PD:** Proton Density weighted image is a MRI sequence where the tissues with the higher concentration or density of protons (hydrogen atoms) produce the strongest signals and appear the brightest on the image.
 
         align: left
-        image: images/msc_sequences_resized.png   
+        image: images/msc_sequences_resized2.png   
         image_position: right 
       # - title: 3D render visualization
       #   content: >-
@@ -74,7 +77,7 @@ Easy multiple sclerosis white matter lesion segmentation using convolutional dee
 
 - For each subject, use FLAIR and T1-w images to infer segmentation
 - You will obtain a mask with the segmentation
-![Demo](/images/FLAIR_segmentation.png)
+![Demo](/images/FLAIR_segmentation_resized.png)
 - It can be overlayed on the MRI study with a medical image viewer
 - Here it is done over the FLAIR sequence, since it can be used in brain imaging to suppress cerebrospinal fluid (CSF) effects on the image, so as to bring out the periventricular hyperintense lesions, such as multiple sclerosis (MS) plaques.
 
@@ -84,7 +87,7 @@ Easy multiple sclerosis white matter lesion segmentation using convolutional dee
 By means of this AI model Multiple sclerosis lesion segmentatation can be performed on consecutive MRI studies
 This allows for the monitoring the evolution of the disease
 
-<video width="320" height="240" controls>
+<video>
   <source src="/images/nicMSlesions_flair_follow-up.mp4" type="video/mp4">
 </video>
 <!-- ![Demo](/images/nicMSlesions_flair_follow-up.mp4) -->
