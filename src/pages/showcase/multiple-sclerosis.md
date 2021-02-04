@@ -72,7 +72,7 @@ template: post
 # AI Model
 <br>
 
-**Easy multiple sclerosis white matter lesion segmentation using convolutional deep neural networks.**
+**Easy multiple sclerosis white matter lesion segmentation using convolutional deep neural networks**
 <br>
 <br>
 
@@ -87,11 +87,15 @@ template: post
 
 - It can be overlaid on the MRI study with a medical image viewer
 <br>
+<br>
 
 ![Demo](/images/FLAIR_segmentation_resized.png)
 
-- Here the mask is shown overlaid on the **FLAIR** sequence
-This specific sequence can be used in brain imaging to suppress cerebrospinal fluid (CSF) effects on the image, so as to bring out the periventricular hyperintense lesions, such as multiple sclerosis (MS) plaques.
+Here the mask is shown overlaid on the **FLAIR** sequence
+<br>
+
+This specific sequence can be used in brain imaging to suppress cerebrospinal fluid (CSF) effects on the image, so as to bring out the periventricular hyperintense lesions, such as multiple sclerosis plaques.
+<br>
 <br>
 <br>
 
@@ -102,8 +106,9 @@ By means of this AI model, multiple sclerosis lesion segmentatation can be perfo
 <br>
 
 This allows for the monitoring the evolution of the disease
+<br>
 
-<video data_autoplay loop playsinline>
+<video autoplay=1 loop playsinline>
   <source src="/images/nicMSlesions_flair_follow-up.mp4" type="video/mp4">
 </video>
 <!-- ![Demo](/images/nicMSlesions_flair_follow-up.mp4) -->
