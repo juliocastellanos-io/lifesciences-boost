@@ -117,6 +117,9 @@ By means of this AI model, multiple sclerosis lesion segmentatation can be perfo
 <br>
 <br>
 
+> **Note** On the left we can see the **baseline** MRI study of a patient with MS and on the right the **consecutive** one
+<br>
+
 ![Demo](/images/nicMSlesions-flair-follow-up.gif)
 <br>
 <br>
