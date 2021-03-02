@@ -15,7 +15,7 @@ sections:
     #     url: 'http://on-demad-ai-life-sciences-v2.s3-website-us-east-1.amazonaws.com/'  # change
     #     style: primary
     align: left
-    video: images/model1-nicMS-flair-resized.mp4  
+    video: images/model1-nicMS-flair.mp4  
     image_position: right
     has_background: true
     background:
