@@ -15,7 +15,7 @@ sections:
     #     url: 'http://on-demad-ai-life-sciences-v2.s3-website-us-east-1.amazonaws.com/'  # change
     #     style: primary
     align: left
-    video: images/nicMSlesions_flair_registered.mp4  
+    video: images/model1-nicMS-flair.mp4  
     image_position: right
     has_background: true
     background:
@@ -120,7 +120,7 @@ By means of this AI model, multiple sclerosis lesion segmentatation can be perfo
 > **Note:** On the left we can see the **baseline** MRI study of a patient with MS and on the right the **consecutive** one
 <br>
 
-![Demo](/images/nicMSlesions-flair-follow-up.gif)
+![Demo](/images/model2-nicMS-flair-followup.gif)
 <br>
 <br>
 
@@ -140,7 +140,7 @@ By means of this AI model, multiple sclerosis lesion segmentatation can be perfo
 <br>
 <br>
 
-![Demo](/images/uthmri-flair.gif)
+![Demo](/images/model2-uth-flair.gif)
 
 <!-- <video data-autoplay loop playsinline>
   <source src="/images/nicMSlesions_flair_follow-up.mp4" type="video/mp4">
